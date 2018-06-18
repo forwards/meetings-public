@@ -1,0 +1,86 @@
+# DRAFT
+
+# Core Team Meeting 2018-06-18
+
+## Attendance
+
+### Core team
+
+Present: Heather Turner (HT), Emily Dodwell (ED), David Smith (DS), Julie Josse (JJ), Tanja Kecojevic (TK), Auggy Ragwitz (AR)
+Absent: Tania Allard (TA), Jenny Bryan (JB), Di Cook (DC), Jasmine Dumas (JD), Jonathan Godfrey (JG), Isabella Gollini (IG), Michael Lawrence (ML), Kevin O'Brien (KO)
+
+## Minutes
+
+### Core team/General
+
+* Team updates (compared to About page, some old news!):
+    - Gina G stepped down as team lead, now ordinary member community team
+    - Tracy S stepped down as team lead, now ordinary member social media team
+    - Madlene H and Carolin S stepped down as team lead, now ordinary member survey team
+    - Auggy new co-lead social media team
+    - Tania new co-lead community team
+    - Tanja new co-lead surveys team
+    - David Meza new member - but what primary team: surveys, on-ramps?
+    - Maelle to swap to on-ramps team
+    - Liz K joined social media team
+    
+* R Summit
+    - David S, Jonathan G, Di Cook, Julie Josse, John Fox (others?)
+    - 30 minute presentation with updates (workshops, surveys) to R Foundation by another member (Heather will be unable to attend) -- perhaps Di or Julie
+    - Gather contributions/ideas from Core team to Github - send link via email (July 3rd deadline)
+    - Meet up for other Forwards members
+
+* Next slackathon dates? July 20-23rd (after useR, so we can get updates from that)
+
+* Etherpad: Discussed at R Foundation meeting, Simon Urbanek is going to set up alternative with private pads (ED will ask for update)
+
+**ACTIONS**
+- New email call for About page information and review of team roles -- Heather has had individual conversations with certain members, others who would like to revisit their contributions can reply to email or speak with her in person at useR.
+- Perhaps send prior to useR conference and update after.
+
+
+### Community team
+(No items of business at this time)
+
+
+### Conferences team
+- Code of Conduct: R Foundation policy is currently that conferences should have Code of Conduct (useR 2015 page is referenced)
+- Recent events suggest recommendations for anti-harrassment would be useful
+- Handling of issues that extend beyond individual conference -- longer term ban on repeat offenders, improvement of reporting mechanisms (i.e. after conference if it was a one-time event)
+- In repo on GitHub for discussion, in person conversations at eRum conference -- Julie has already made edits based on feedback
+- Current status: JJ look at Python CoC (which was recently reviewed), ISBA policy
+- Have any changes been made to JSM after rumblings on Twitter
+- Word of caution: this is a policy, not a legally enforceable document -- this is a perception that we need to address because it is barrier to implementation
+
+**ACTIONS**
+- Thoughts, comments, and suggestions welcome if people can take a look at Github repo; good conversation to have at R Summit (work out controversial points and pointers for addressing them)
+
+### On-ramps team
+(No items of business at this time)
+- Good ideas for progress recorded on task list
+
+
+### Social media team
+- AR is onboarding and prioritizing tasks via communications with HT
+- Blog:
+    - Highlighting UseR groups in Latin America/Africa/etc -  https://github.com/forwards/tasks/issues/38
+- Twitter: 
+    - Due to changes in team structure, need to re-think accountability of the Twitter communications
+    - Need to coordinate multiple posters (tactical response process for an immediate issue): AR and DS to discuss
+
+**ACTIONS**
+- Look into adding prior presentations to website? (May require additional website section -- addition to task repo)
+
+### Surveys
+- Preparation for useR! 2018 survey: TA is working with Nujcharee (revision of questions and member of local organizing team is helping with Survey Monkey)
+- Conscious of new data regulation protections in EU and clearer about intentions of data collection (and what happens to it afterwards)
+
+
+### Teaching
+- ED and JR touched base at R Ladies Meetup last Thursday -- we are looking into outreach avenues for NYC high school girls for workshop at AT&T Labs later this year.
+- Would slack channel be best to connect with NT and JD (and anyone else interested in getting involved)?
+- ED will be submitting grant proposal for AT&T WEPAN funding (amount TBD)
+
+**ACTIONS**
+- Provide laptops/desktops?
+- Applications?
