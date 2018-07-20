@@ -33,6 +33,7 @@ Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea F
 
 **ACTIONS**
 
+- MS worked on the certificate generation with help from HT.
 
 ### Social media team
 
