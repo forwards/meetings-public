@@ -51,4 +51,4 @@ Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea F
 
 
 ### AOB
-- Next slackathon will be in September 2018.  Vote for your preferred weekend via the survey in Slack: (survey link TBA)
+- Next slackathon will be in September 2018.  Vote for your preferred weekend via the survey in Slack: https://rforwards.slack.com/archives/C3XD6925A/p1532107966000339
