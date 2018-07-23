@@ -4,9 +4,9 @@
 
 ### Core team
 
-Present: Emily Dodwell (ED), Heather Turner (HT)
+Present: Emily Dodwell (ED), Heather Turner (HT), David Smith (DS)
 
-Absent: Tania Allard (TA), Jenny Bryan (JB), Di Cook (DC), Jasmine Dumas (JD), Jonathan Godfrey (JG), Isabella Gollini (IG), Julie Josse (JJ), Tanja Kecojevic (TK), Michael Lawrence (ML), Kevin O'Brien (KO), Augustina Ragwitz (AR), David Smith (DS)
+Absent: Tania Allard (TA), Jenny Bryan (JB), Di Cook (DC), Jasmine Dumas (JD), Jonathan Godfrey (JG), Isabella Gollini (IG), Julie Josse (JJ), Tanja Kecojevic (TK), Michael Lawrence (ML), Kevin O'Brien (KO), Augustina Ragwitz (AR)
 
 ### Sub-teams
 
