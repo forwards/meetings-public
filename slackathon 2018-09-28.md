@@ -57,7 +57,7 @@ Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea F
 
 
 ### Teaching
-- IG will be giving a hort version of the package workshop at the [Datafest in Tbilisi](https://datafest.ge/) (and maybe also in Dublin with R-Ladies).
+- IG will be giving a short version of the package workshop at the [Datafest in Tbilisi](https://datafest.ge/) (and maybe also in Dublin with R-Ladies).
     - (HT) Feel free to use my satRdays slides for the content, which was basically a selection from the full day course and is about 2 hours of material. I would probably skip/simplify the bit about how packages get into memory, it's a bit too much detail at that stage.  They are in ppt, so you could try using the slidex package to convert to xaringan as mentioned in this [Github issue](https://github.com/forwards/tasks/issues/16).
 - IG has material for a beginner R workshop she gave at the Diversity in Data Workshop here in Dublin. Can be shared on GitHub with addition of CC BY-NC 4.0 license.
 - HT has a half-day R programming workshop where I have made an effort to include "stepping stones" to package development, e.g. documenting and testing functions. She'll see how it goes, but can probably share that afterwards, so we have a sequence from R starter to R developer workshops.
