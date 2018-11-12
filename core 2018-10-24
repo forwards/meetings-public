@@ -1,0 +1,98 @@
+DRAFT
+# Core Team Meeting 2018-10-24
+
+## Attendance
+
+### Core team
+
+Present: Emily Dodwell (ED), Isabella Gollini (IG), Kevin O'Brien (KO), Heather Turner (HT)
+Absent: Tania Allard (TA), Jenny Bryan (JB), Di Cook (DC), Jasmine Dumas (JD), Jonathan Godfrey (JG), Julie Josse (JJ), Tanja Kecojevic (TK), Michael Lawrence (ML),  Augustina Ragwitz (AR), David Smith (DS)
+
+## Minutes
+
+### Core team/General
+- HT: Submitted recommendations about Code of Conduct and anti harrassment policy to R Foundation -- discussed at least teleconference. Specific points about CoC came up for feedback.  We can justify and/or slightly rewrite.
+- "All conference participants...respect fellow attendees" -- "actively seek to acknowledge" (what does that mean if you are giving a presentation?)
+- Be considerate in speech and actions/respect boundaries -- maintains same idea without concern of sigining up for something they can't do in practice
+- Mixed talking about sanctions with description of CoC actually is -- comment about clarification
+- Overall people were happy with it; balance specificity with document that people are prepared to read and follow
+- Antiharrassment policy -- less sure about that (some people don't believe it to be our responsibility at all)
+- Can we handle data?  Do we have expertise and facilities to maintain sensitive data (protect from compromising or hacking)
+- Bayesian society decided to put reports of coc violation in escarot setup with lawyer; can ask for information on particular individual if necessary; outsourcing data management problem but not free and must know who you need to ask about (i.e. collection of evidence)
+- can't necessarily monitor or flag potential problems before it blowing up; requires a report to begin process
+- request to keep two issues separate
+- Hope to wrap up revised CoC (can't discuss reports being shared with R foundation prior to reporting structure being worked out) by end of year so can put into effect for 2019
+
+## R Foundation voted to add new members; makes sense to wait for their membership prior to finalizing CoC
+
+**ACTIONS**
+- HT will share changes that are being discussed.
+
+### Community team
+
+* Request for Speakers for the Kampala R user group Saturday Meetups The format is a skype presentation with slides lasting about 30 minutes. 
+   The timing is 10:30 am Saturday mornings EAT (UTC+2).
+* KOB gave a presentation already in September 2018. During that presentation, KOB suggests that Kampala R user group organize a SatRday.  
+  The organizers are now pursuing this with Steph Locke.  
+* KOB also discussed Diversity Scholarships for UseR! at the Kampala R meetup, without going into too much detail. Is there any updates on opening The Aft dates for application.
+- HT: Hope to open in January. We will receive application draft to provide input, and that Forwards will help reviewing submissions.
+* KOB can provide details on CRAN reference pdfs that would can be used for a documentation sprint.
+- KOB Here is an idea for a workshop event: a documentation sprint. I was reading some reference manuals and found a few typos around one of them. People taking part can start to take an active part in the the software development process, by submitting Pull Requests.
+Initially it would be to fix typos, but the idea is that they confident to start submitting examples, and then new functions and so on.
+* KOB proposes a workshop project based on the Transgender Day of Rememberance data set. There has been a increased level of violence reported against the transgender community,  particularly in Brazil, and it would be good to help convey to the general public the risks that that communtiy faces. HT: Transgender Day of Remembrance is November 20th. Cardiff RUG may be interested in working on this: have been looking for a data set to work on and local members are interested in trans rights.
+* The AfroTech Festival will be taking place in London on Friday 12th to Sunday 14th April. KOB is planning on attending, but possible Travel disruption due to brexit ( 29th March 2109) may prevent that. Organizers currently looking for speakers and Sponsors. KOB proposes asking London R to invite AfroTF organizers to present a quick talk at a London R meetup. 
+* KOB is due to attend the H20.ai event in London next week. Erin Ledell is chairing a diversity and inclusion session at the event. (LOOK UP DATE)
+* Dates for SatRday Paris have been announced : 23rd February 2019.
+
+**ACTIONS**
+- Forwards will review application submissions for Diversity Scholarships (applications close end of March, and then 4-6 weeks to evaluate). This is awesome (TA)
+- Encourage opportunities for documentation sprint review workshop.
+
+### Conferences team
+
+- https://www.exordo.com/blog/virtually-connecting/. 
+Online discussions with people who can't make it to the conference -- people can connect with those they wouldn't normally/have opportunity to meet as an opportunity to participate.
+- At least one of keynote speakers for useR! 2019 is willing to do this. Requires people at conference to sign up conversationalists, ask questions, setup etc. (Google hangouts)
+- Spreads impact of conference and gets community involved beyond live tweeting
+- also plan to use http://sli.do -- managing questions, remote asking of questions to speaker for people not at conference
+
+**ACTIONS**
+- Virually connecting: keep in mind as option for future conferences
+
+### On-ramps team
+
+- Maelle followed up on the tagging of issues for first-timers: https://github.com/ropensci/dev_guide/issues/84 
+
+
+**ACTIONS**
+- CW gave presentation at useR! 2017 on collaborative coding. Include in blog post (CW, AR).
+
+### Social media team
+
+* KOB notes that satRdays Belgrade is taking place this weekend. 
+
+**ACTIONS**
+- Keep members of social media team (and JR for news on site) updated with any conferences you are attending, etc.
+
+### Surveys
+- DC has started analysis on useR! 2018 survey data.  Waiting for survey team members to review.
+
+**ACTIONS**
+- Completion of useR! 2017 survey data analysis.
+
+### Teaching
+- (ED) NYC girls workshop is this Saturday 10/27. We have 19 students signed up.
+- Certificates?
+- Add CC BY-NC 4.0 license to each piece of material (link at bottom of Markdown) prior to sharing on GitHub
+
+- IG: Diversity in Data workshop, Dublin 22nd September https://ti.to/coding-grace/diversity-in-data-workshop-2018 (9 people attending, all women + 3 other women facilitators)
+
+- IG: Datafest Tbilisi 3 days 7-9 November 2018 https://datafest.ge/
+
+**ACTIONS**
+- Goals: Women's package workshop in the states
+- Girls workshop in Europe
+- Convert workshop slides into xarigan; use Earo's slides as a starting point (IG, NT)
+
+**AOB**
+Next slackathon will be November 16-19
