@@ -21,10 +21,10 @@ Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea F
 ### Community team
 
 - Discussing R in Africa on #community:
-    - Committee formation to develop African analogue of RLadies (essentially a RUG with significant R Ladies Global involvement) with interest in geographic spread
-    - Company structure may be required for conference organization capacity
-    - Good governance structure via an auditor (external, power to dissolve committee if necessary), which is a vestage of RUGs network
-    - Due to restrictive LGBT rights in African countries, in the short term it's better to have R summits by region organized by local entities vs. a global event (e.g. useR! organised in Africa) because citizens can't help the laws of where they live, but we do have the choice for a global event.
+    - KO: Committee formation to develop African analogue of RLadies (essentially a RUG with significant R Ladies Global involvement) with interest in geographic spread
+    - KO: Company structure may be required for conference organization capacity
+    - KO: Good governance structure via an auditor (external, power to dissolve committee if necessary), which is a vestage of RUGs network
+    - HT: Due to restrictive LGBT rights in African countries, in the short term it's better to have R summits by region organized by local entities vs. a global event (e.g. useR! organised in Africa) because citizens can't help the laws of where they live, but we do have the choice for a global event.
 
 ### Conferences team
 (No items at this time)
