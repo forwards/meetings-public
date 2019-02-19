@@ -35,7 +35,7 @@ Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea F
 
 
 ### Social media team
-- Forwards [mention](https://twitter.com/W_R_Chase/status/1080947907279368192)
+- Forwards [mention](https://twitter.com/W_R_Chase/status/1080947907279368192).
 
 
 ### Surveys
