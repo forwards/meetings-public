@@ -9,7 +9,7 @@ Absent: Tania Allard (TA), Jenny Bryan (JB), Di Cook (DC), Jasmine Dumas (JD), J
 
 ### Sub-teams
 
-Present: Noa Tamir (NT)
+Present: Noa Tamir (NT)  
 Absent: Stella Bollmann (SB), Carolin Strobl (CS), Rudolf Debelak (RD), Andrea Foulkes (AF), Gina Griffin (GG), Madlene Hamilton (MH), Liz Kellogg (LK), Angela Li (AL), Joslynn Lee (JL), David Meza (DM), Gina Merchant (GM), Ileena Mitra (IM), Ritwik Mitra (RM), Wenfeng Qin (WQ), Maëlle Salmon (MS), Tracy Shen (TS), Noa Tamir (NT), Charlotte Wickham (CW), Hadley Wickham (HW), Yizhe Xu (YX)
 
 ## Minutes
