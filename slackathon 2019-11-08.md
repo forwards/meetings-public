@@ -4,13 +4,13 @@
 
 ### Core team
 
-Present:Heather Turner (HT), Emily Dodwell (ED), Kevin O'Brien (KO), Noa Tamir (NT)  
+Present: Heather Turner (HT), Emily Dodwell (ED), Kevin O'Brien (KO), Noa Tamir (NT)  
 Absent: Tania Allard (TA), Jenny Bryan (JB), Jonathan Godfrey (JG), Isabella Gollini (IG), Julie Josse (JJ), Tanja Kecojevic (TK), Michael Lawrence (ML), Angela Li (AL), Shakirah Nakalungi (SN)
 
 ### Sub-teams
 
 Present: Liz Hare (LH), Ritwik Mitra (RM), Lorna Maria Aine (LM),  Nujcharee Haswell (NH)  
-Absent: , Damiano Cerasuolo (DCerasuolo), Di Cook (DCook), Nic Crane (NC), Madlene Hamilton (MH), Zhian Kamvar (ZK), Liz Kellogg (LK), Joslynn Lee (JL), Florencia Mangini (FM), Imke Mayer (IMayer), David Meza (DM), Ileena Mitra (IMitra), Ritwik Mitra (RM), Jesse Mostipak (JM), Richard Ngamita (RN), Wenfeng Qin (WQ), Emma Rand (ER), Joyce Robbins (JR), David Smith (DS), Samantha Toet (ST), Charlotte Wickham (CW), Yizhe Xu (YX)
+Absent: Damiano Cerasuolo (DCerasuolo), Di Cook (DCook), Nic Crane (NC), Madlene Hamilton (MH), Zhian Kamvar (ZK), Liz Kellogg (LK), Joslynn Lee (JL), Florencia Mangini (FM), Imke Mayer (IMayer), David Meza (DM), Ileena Mitra (IMitra), Ritwik Mitra (RM), Jesse Mostipak (JM), Richard Ngamita (RN), Wenfeng Qin (WQ), Emma Rand (ER), Joyce Robbins (JR), David Smith (DS), Samantha Toet (ST), Charlotte Wickham (CW), Yizhe Xu (YX)
 
 ## Minutes
 
