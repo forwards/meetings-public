@@ -1,0 +1,127 @@
+# Core Team Meeting 2022-01-14
+
+## Attendance
+
+### Core team
+
+Present: Heather Turner, gwynn,    Zane, yani, Kevin
+
+Absent: 
+- morning energy LOL
+- lots of coffee
+    
+### Sub-teams
+
+Present:
+- friendship
+- friendly chat
+- location sharing ( Calgary, Washington DC, Lethbridge, Waterton )
+- what we did on December break
+
+## Minutes
+
+### Core team/General
+
+* Zane has been contributing to the MiR website and blog. https://mircommunity.com/about/
+
+* Review minutes from last time: https://developer.r-project.org/etherpad/p/forwards-dec-2021
+     - Book club reading https://www.goodreads.com/book/show/51075403-nonbinary - aim to get book by February 14 if you want to join in!
+     
+* Emily has stepped down as administrator, passing on the baton to gwynn. She has done a great job of documenting all our processes, so hopefully we can keep running smoothly! Thanks to Emily for her work.
+
+* Use of Forwards branding. Need to address groups using Forwards branding on events without asking first - is not a big issue for us, but help novice organizers understand how to make effective partnerships, respecting principles of the organization.
+
+* Upcoming events [have we sorted how these will be updated on our home page and announced on Twitter?, need to tag @joyce?]
+    - Zane speaking on rtweet package at R-Ladies Coventry Wed Jan 2022 (https://www.meetup.com/rladies-coventry/events/282268890/) [retweet https://twitter.com/RLadiesCoventry/status/1463943105690968076?s=20 or similar nearer time]
+    - Collaborative Campfires will start soon, will be announced on https://twitter.com/R_Contributors [retweet]
+    - gwynn talking at Sonification World Chat: relatively closed meeting, but gwynn plans to tweet some bullet points that could be retweeted
+    - JSM panel on alternatives to visualisation with Jonathan Godfrey, kim arcand, ben rubin, mark hansen, allyson bieryla: details TBC
+     - AsiaR organizing a panel on building regional communities: details TBA
+     - Metadocencia will be running some teaching events: no schedule yet.
+
+* GSoC 22/GSoD 22  = Google Summer of Code / Google Summer of Docs
+https://github.com/rstats-gsoc/gsoc2022 
+https://github.com/rstats-gsod/gsod2022
+    - Could propose idea or otherwise encourage people from underrepresented groups to get involved.
+    - Jonathan Godfrey had potential idea : describe point characteristics for visual accessibility in R. Otherwise another accessibility-related coding/documentation project would be goog (gwynn will follow up)
+
+**ACTIONS**
+
+### Accessibility team 
+kate meredith, astronomy - was this another suggestion for a potential speaker, or ...?
+* gwynn is working on pulling together a steering committee on non-visual ways to communicate data (applying for grant) and also planning to work on accessible tools for learning statistics.
+* Dr Juan Klopper has talked about accessibility of statistical software in South African context. https://twitter.com/docjuank. E.g. avoiding downloads, using Google Colab notebooks, thinking about bandwidth issues. 
+
+### Community team
+
+* Kevin: Trying to restart the WhyR webinars: ~once every three weeks. Hard to get diverse set of speakers. Differing expectations about doing a seminar for free. Discussed a bit at R Consortium D&I WG. Difference between corporate and community events - incentives change. 
+    - HT: perhaps have fund to support paying speakers from underrepresented groups? Somewhat different from speaking at an R-Ladies group or satRdays. 
+   - YSB: could suggest some speakers from Latin America. Kevin: Great. All suggestions welcome! YSB: Here is an initial list: https://docs.google.com/spreadsheets/d/1IQV8OD6UmfNoR7eKCj16Ff7y_g43FKRlBzByZyQIcc0/edit?usp=sharing
+
+* Kevin: General issues with RUGs etc
+    - RUG meetups and satRdays petering out
+    - Potential to work on guide for organizers that could cover issues such as use of other people's branding and other good practices.
+
+* Kevin: Wants to organize another R-Ladies Remote/WhyR talk day. HT: Probably ~May would be a good time (about 1 year after last one).
+
+* gwynn: Meeting with AfricaR next Friday
+    - Start agenda and jot a few ideas down by next week
+    - useR! 2022 and peer review (see below)
+    - Suggest Twitter community as as idea, but needs people to adopt it, get critical mass (Julia one has fizzled out a bit) https://github.com/forwards/tasks/issues/64
+
+* Discussion of conference fees, experience from Python community:
+    - Some fees are more burdensome for some people
+    - PSF and PyCon: no one gets paid, but each person pays fees to go to events (you can win tickets to PyCon; but travel costs etc can still be prohibitive). 
+    - PyAr is free https://www.python.org.ar/  
+    - PyConAr: https://eventos.python.org.ar/events/pyconar2021/      (Yani)
+
+**ACTIONS**
+
+### Conferences team
+
+YSB:
+* useR! 2022 will be all virtual. Organizing team is open to have more people from other part of the world so they have a better feel of international need. Hope to add at least one keynote (have some ideas already!).
+     * useR! 2021 has got permission from past sponsors to pass on details to 2022 team.
+     * Linux Foundation will help with organization.
+     * Doing all communication in English, French, Spanish. Will translate parts of website too.
+     * Abstract submission date extended to 1 March (presentations) 15 Feb (tutorials).
+     * R-Ladies will offer peer review.
+     * Will be contacting MiR and LatinR about how they might contribute and peer review  --> Dorris & Danielle, also Audris (MiR)
+* LatinR conference planned for Montevideo, Uruguay  - November. Wait for confirmation from university. Plan to go hybrid.
+* AsiaR are organizing a panel, starting to organize events.
+HT
+* Forwards members welcome to attend useR! Global Working Group meetings, a group working on long-term support for useR!. Ask on #conferences channel of Forwards Slack/contact rowforwards@gmail.com if you need an invite to the Slack workspace where the group organizes. Projects include:
+    - supporting the R Foundation Conference Committee in organizing calls for proposals 
+    - supporting the current useR! organizers, passing on knowledge from past useR!s
+    - helping to maintain the useR! knowledgebase and infoboard
+    - helping to on-board new useR! organizers
+    - other infrastructure, e.g. technical support, code of conduct implementation, etc
+
+**ACTIONS**
+
+
+### On-ramps team
+
+* Twitter account now in active use: https://twitter.com/R_Contributors and subdomain: https://contributor.r-project.org/ has been set up (R Contribution Site at root and R Development Guide at https://contributor.r-project.org/rdevguide/
+* Collaborative Campfires: planned series of informal events related to R Development Guide. Will start with introducing/exploring Bugzilla.
+* Next R Contribution Working Group (RCWG) meeting - Jan 18 20:00 UTC: https://contributor.r-project.org/events/
+
+**ACTIONS**
+
+### Surveys
+
+- No one from team present. HT: Summary of Latin America survey as a blog post? Yani will ask Pao about this idea. R Journal article for Forwards column is another possibility can do either or both.
+- Inventory of useR! survey reports?
+
+**ACTIONS**
+
+### Teaching
+
+- Joyce Robbins (with Emily Dodwell and Erin Grand as TAs) ran a 2-day package development workshop for R-Ladies NYC that went very well! Her materials are available here: https://github.com/jtr13/pkgdev. There were 23 people who joined for Day 1, and 18 for day 2. We had accepted 40 RSVPs via Google form (that was publicized on Meetup and Twitter), so this represented ~50%.
+- HT along with Rita Giordano will be running the package development workshops as a 4 week series, 1 hour per week, for R-Ladies Remote, starting Jan 17: https://www.meetup.com/rladies-remote/
+
+**ACTIONS**
+
+
+### AOB
+- Next slackathon will be Monday-Thursday the week of 2022-02-14.
