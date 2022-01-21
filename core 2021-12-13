@@ -1,0 +1,95 @@
+# Core Team Meeting 2021-12-13
+
+## Attendance
+
+### Core team
+
+Present: gwynn sturdevant, Andrea Sánchez-Tapia, Anna Vasylytsya, Kevin O'Brien, Yanina Bellini Saibene, Mine Çetinkaya-Rundel, Jonathan Godfrey, 
+Absent: 
+    
+### Sub-teams
+
+Present: Emily Dodwell, Zane Dax, Maria Prokofieva, Di Cook
+Absent: 
+
+## Minutes
+
+### Core team/General
+Saranjeet Kaur: The project "Building a Community around the R Development Guide" (by Saranjeet Kaur and Heather Turner) got accepted into the Digital Infrastructure Incubator program by Code for Science and Society. This is a 6-month program which started recently (November 2021) with the focus to increase the involvement of community in using the R Dev Guide. The communities that we aim to reach via this program includes R-Ladies, Forwards, MiR, to name a few. We would be conducting "Collaboration Campfires" starting from January 2022 as a part of the Incubator program. The Collaboration Campfires will be 90 minute monthly sessions, that would be very informal and beginner-friendly in nature. Announcements related to the Campfires will be made using the Twitter handle @R_Contributors. We would be focusing on some topics from the R Dev Guide as the agenda for discussion and collaboration during the Campfires.
+
+### Accessibility 
+1. Accessibility - accesibility
+Dark mode for R
+R Journal HTML accessible articles, will likely need some help in the future to check the articles converted from latex/pdf to html, and that alt-text is appropriate. Big tests will come in early January when we deploy the new article format, and web site structure. 
+Update package documentation to html files
+sweave documents to markdown  - pathway from sweave to html Not sure there is a pathway here, because sweave is pdf, BUT it's mostly scriptable to convert an Rnw document to an Rmd document. 
+first success second failure - why? what processes can be put in background
+
+
+
+### Community team
+Rebooted community teams - Richard and Kevin
+Key focus - underserved regions around the world - Africa, APEC - low hanging fruit for the next few months
+WhyR with RLadies remote, something similar
+Africa R meeting in the new year
+
+### Conferences team
+New member - Yani - reading documents in the github - working with useR to see how we can make it more diverse - hybrid. How accessible are online conferences?
+
+Google Season of Docs - write everything there and see what things might work there.
+The Knowledgebase:
+URL: https://rconf.gitlab.io/userknowledgebase/ (currently rendering branch dev)
+Gitlab: https://gitlab.com/rconf/userknowledgebase
+The useR! Infoboard:
+URL: https://rconf.gitlab.io/userinfoboard/
+Source: https://gitlab.com/rconf/userinfoboard
+
+### On-ramps team
+No updates
+
+### Social media team
+Heather updating twitter and website updates
+
+### Surveys
+Next Slackathon in Feb to make reproducible summary reports for every year.
+Create a template for 2022 to make it easier for next organizer.
+Data is incomplete - may not be representative - still want to see how useR attendance has changed over time
+
+### Teaching
+Week of Nov 29 - 4 module workshop - 10am NYC time
+small group but still able to get through the workshop goals
+we'd like to get more people to teach it - Emily and Joyce - Jan 12 and 13 - 1.5 hrs over lunch - 1 hr of teaching 1/2 hr of lab
+reach out to other RLadies groups to see if they wold like to teach it
+Perhaps run it through the semester
+Want to offer it at different times
+RPhilly teaches package testing with Shannon Pileggi (%>% hot data)
+Maria may test the curriculum in Australia
+
+### Inclusion
+Perhaps read - https://www.goodreads.com/book/show/51075403-nonbinary
+Anticipating and dealing with transgender difficulties in a timely way - senior people need to develop a policy - RLadies community slack
+Is their a person responsible for slack in case someone shares struggles? Zane is supposed to take over the slack
+
+### Where is the R community?
+Meetups in London are done
+How will this impact on how we impact our community? 
+RLadies is much more active than PyLadies
+both groups have suffered from dropoff but more are picking up - Utah, Seattle
+RLadies - global team meeting - still growing 40 chapters per year - 
+biggest group in LatAM - same number of chapters as USA and Canada - same numbers as USA
+pandemic made RLadies stronger - international meetups and sharing burden between chapters
+able to be present in new activities
+share what has worked in LatAm with more parts of the world
+How can we allow more people to participate?
+RLadies Melbourne - Christmas dinner in a pub!
+RLadies NYC - how do we do meetups now? Companies require vaccine mandates, not meetup policing it
+not knowing who will attend makes this difficult
+London - deep cleaning after meetups
+Tired of online events - meet in person if possible - benefits of online events - maintaining balance is difficult
+Takes extra work to have hybrid - having separate host two people in charge - check in with both online and remote people
+Same platform for questions - someone reads and chooses questions
+RLadies Rio - low attendance pre-pandemic large city and high transportation costs, during pandemic much more reach, local things are much more inclusive
+
+
+### AOB
+- Next Core Team meeting will be 2022-01-14.
