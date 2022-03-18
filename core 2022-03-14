@@ -1,0 +1,65 @@
+# Core Team Meeting 2022-03-14
+
+## Attendance
+
+Present: gwynn, Andrea, Liz, Mike, Maria Prokofieva
+Apologies: Di,  Heather, Mine, Emma
+
+### Core team/General
+
+**ACTIONS**
+
+### Accessibility
+
+* (Heather before meeting): Some ideas discussed for Google Season of Docs: https://github.com/rstats-gsod/gsod2022/issues/5. The idea of converting R Journal articles/vignettes to HTML might end up being an Outreachy/Google Season of Docs project. Yihui might be working on a lighter version of rmarkdown with fewer dependencies.
+
+Accessibility of ggplot add an item to the list that will describe the plots if BrailleR is libraried.
+
+**ACTIONS**
+Write email to BrailleR users list to get more blind feedback.
+Follow up on meetings with Gary and others
+
+### Community team
+
+Have had multiple meetings with AfricaR to reboot this program.
+RLadies has a board - unelected works in NYC
+RForwards has teams - nice structure
+AsiaR - giant useR! 2021 and started to spread the word across the countries
+- slack space
+- Yani and RLadies East Lansing organizers involved.
+
+**ACTIONS**
+Ask LatinR people to come and share - conference based, then became community
+
+### Conferences team
+
+**ACTIONS**
+
+
+### On-ramps team
+Some work on translations - make a dashboard for R about completeness of translations
+Hungarian translation of R mostly done - but lost
+- https://web.archive.org/web/20081121220205/http://www.feferraz.net/en/P/R-Project_Translation_Status
+
+
+**ACTIONS**
+Who should we speak to about translations of R? Hungarian translation of errors, warning, message, anything that goes through get text at C level. Send email to RCore
+Michael to complete Outreachy translation project descriptions:
+     - https://developer.r-project.org/etherpad/p/outreachy-project2
+     - https://developer.r-project.org/etherpad/p/outreachy-project3
+
+### Surveys
+Wanted to use the slackathon to finish the 2021 but did not finish. Have been in touch with 
+
+**ACTIONS**
+Andrea needs to communicate with the team when she has time. Wants to sit with the team, perhaps slackathon could be part of this?
+
+Andrea will need to speak with Ana.
+
+### Teaching
+
+**ACTIONS**
+
+
+### AOB
+- Next Core Team meeting will be 2022-04-15.
