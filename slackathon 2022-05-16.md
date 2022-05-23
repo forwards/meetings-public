@@ -20,7 +20,8 @@ Absent:
 **ACTIONS**
 
 ### Accessibility
-- grant to automate alt-text in ggplot submitted to RConsortium
+
+- grant to automate alt-text in ggplot submitted to RConsortium and waiting for response
 
 **ACTIONS**
 Await response
@@ -44,6 +45,8 @@ KOB is also assisting London R revive the live-meetup series. The next London R 
 KOB is assisting Python colleagues in running EuroPython in Dublin. There is a Trans*Code hackathon event taking place at it. Naomi Ceder (formerly the chair of the Python Software Foundation) and Anna-Jayne Metcalf (organizer of the Trans Day Of Remembrance - TDOR) are due to attend.  
 
 R Consortium Working Group on Inclusivity Diversity Equity and Accessibility, chaired by Samantha Toet with the assistance of Joe Rickert, are looking to set up a series of Online SatRdays on an ongoing basis. The first nominated one is a Francophone SatRdays , mostly featuring Speakers from West Africa - with other regions being pencilled in for future events (e.g. Southern Africa). It will probably take 4 or 5 iterations to properly get some momentum going, but this will break in inertia a bit.
+
+WhatsApp group for AfricaR email list sent to everyone on MailMerge file
 
 **ACTIONS**
 
