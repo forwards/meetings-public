@@ -5,8 +5,7 @@
 
 ### Core team
 
-Present: Heather Turner Kevin O'Brien, Yanina Bellini Saibene, gwynn
-Absent: 
+Present: Heather Turner Kevin O'Brien, Yanina Bellini Saibene, gwynn 
     
 ### Sub-teams
 
