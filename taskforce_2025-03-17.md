@@ -1,51 +1,66 @@
 # Monday March 17, 2025
 
-## Catch-up
+Present: Heather Turner, Ella Kaye, Dillon Sparks, Pao Corrales, Jonathan Godfrey, Zane Dax
+Apologies: Joyce Robbins
 
-- Ella has just got basepenguins package accepted on CRAN to help people switch from palmerpenguins package to new penguins datasets which will be in R from 4.5.0 (to be released on Friday!).
-- JG: do they have indigenous names?
+## Meeting times
+
+- Odd Months at this time (https://everytimezone.com/s/f261db01) on 3rd Monday: 19 May, 21 Jul, 15 Sep (day before posit:conf), 17 Nov 
+- Even Months at 9pm Pacific/Auckland (https://everytimezone.com/s/f261db01) on 2nd Tuesday: 8 Apr, 10 Jun, 12 Aug (day after useR! Dev Day), 14 Oct, 9 Dec
+
+## Membership updates
+
+- Forward About page now updated: https://forwards.github.io/about
+
+    - make PR to https://github.com/forwards/forwards.github.io if you want to change something!
+
+- Welcome to Imani (she/her)!  Imani is interested in helping with Community, Conferences, Social media, Surveys. 
+
+    Imani Oluwafumilayo Maliti is a data analyst with a background in data science, a passion for storytelling, and a keen interest in blending analytical skills with creative communication. Since accidentally discovering R as a freshman Mathematics major, she has become passionate about using data to drive insights for change and has applied it to several community-oriented projects.
+
 
 ## Combined R-Ladies Remote + rainbowR package development workshop
 
-* Poll for times: https://crab.fit/online-r-package-development-workshop-265192 (to start beginning of June)
+ - From Joyce prior to meeting: I wanted to ask what procedure I should follow to hold a virtual package dev workshop. I'm thinking of a date in May or June after the semester ends. I guess the next step could be to post on Slack and see if anyone is available to help either during the workshop or before (spreading the word, setting up a registration system).
 
-    - Chase up: Emma Rand? Maria Prokofieva?
-    - See also extra context from Ella by email?
-    - Promoting via rainbowR and R-Ladies Remote, possibly also with Data Science Learning Community. Brand as Forwards?
-    - Do as Zoom event with Forwards Zoom
-     - ACTIONS: 
-         - HT to follow-up with people to fill in poll [DONE]
-         - Pick dates before end of April/next Forwards meeting at the latest
+    - Possibly future NY Venue idea: NYU Center for Data Science: Pioneering Data Science. Previously I suggested Microsoft Conference Centre on 42nd and 8th - did we ever hear back from them?
+    - Ella willing to review material in time for teaching at Warwick second half of May
+    - publish material at least linked better to Forwards website
+    - maybe with style used previously by Emma and Suus.
+    - Interested: Emma Rand (UK, from January review), Pao Corrales (Aus, January review), Ella Kaye (UK, from January meeting), 
+    - Availability: Emma (?), Ella (June may be better), Pao (potentially available in May/June, time-zone dependent),
+    - Possibly run in 2 time zones - something similar to the two times we're using for Forwards meetings.
+    - 6 x 90 minute sessions - possibly fortnightly, use community Slacks for any support in between. Maybe ask if Data Science learning community can lend us a channel.
 
-## R Journal alt text project
+ - Actions: 
 
-* JG and HT meeting with Di Cook tomorrow to discuss this.
+    - EK to review the material and spin up Forwards-branded version of website. PC can review when it's up/
+    - JR to follow up with DSLC and suggest/poll some times in June/July.
+    - HT help with promoting to R-Ladies Remote. 
 
 ## useR! 2025
 
-* There will be a virtual day Friday 1 August: https://user2025.r-project.org/additional/virtual
+- Survey: Imani and Dillon will work on this
+- Dillon and Kevin will be there, maybe Imani too
+- Actions: 
 
-    * Forwards can promote
-    * Sign up on event page: https://www.linkedin.com/events/7313635592217518081/
-
-* Can we use official Mastodon account more?
-* HT meeting with Dillon and Imani to prepare for useR! 2025 survey.
-
-## R Dev Days
-
-* Upcoming, a lot of deadlines soon:
-    - Rencontres R 2025, Mons, Belgium, Thu 22 May  - deadline  Fri 18 Apr              
-    - useR! 2025,  Durham, NC, USA, Mon 11 Aug  - deadline Tue 15 Apr              
-    - RSECon25, Warwick, UK,  Fri 12 Sep  - deadline Wed 23 Apr (travel funding available for UK, Europe & Global South)
-    - Help advertising on rainbowR, miR, boosting on LinkedIn/Mastodon/Bluesky (https://contributor.r-project.org/)
-        - posts to share on #on-ramps channel
-    - Post on Forwards Blog with deadline - is this still connected to R bloggers? R weekly does not always seem to get promoted via R bloggers.
-* ACTIONS: 
-
-    - HT to look into Forwards Blog. 
-    - All: help with boosting posts/reminders about R Dev Days (please follow R Contributor accounts if not already).    
-
+    - DS (and HT) to finish off reports for useR! 2024
+    - 3 more sections to go, 1 pull request in. Hope to finish over next month.
+    - DS and IOM can prepare the survey for useR! 2025
+    - HT/IOM make sure IOM has access to LimeSurvey
+    
 ## Social Media
 
- - Zane now on-boarded to help with Mastodon account
- - Updated social media policy: https://github.com/forwards/social-media/blob/main/social-media-policy.md
+- Moderators for Mastodon? Bluesky is bridged
+
+    - Currently only Heather has access? Still no Tweetdeck like platform to share access, but can manage credentials via R Foundation 1password.
+    - if no one else wants to i can do this {Zane}
+
+- Moderators for LinkedIn
+
+    - gwynn, Kevin and Heather admins, but only Kevin semi-active?
+    - Kevin also admin for R User Community group
+
+- Update to policy: https://github.com/forwards/social-media/blob/main/twitter-policy.md
+
+## AOB
