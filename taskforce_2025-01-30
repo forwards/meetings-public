@@ -1,0 +1,77 @@
+# Thursday January 30, 2025
+
+Present: Ella Kaye, Heather Turner, Kevin O'Brien
+
+## Misc
+
+- Kevin mentioning how organizations use YouTube for promoting project, e.g engaging sponsors (YouTube stats of conference talks)
+
+    - Maybe taking over Why R? YouTube channel 
+    - Second tier channel for R Foundation - they could give oversight of how its run
+    - R Consortium doesn't have the same reach/scope (as only companies)
+    
+## Membership review
+
+- Isabella Gollini and Liz Hare have stepped down
+- Daniela Cialfi have not responded (followed up by email) - will keep on for now.
+- Otherwise the following are directly active (confirmed in member review, by responding to poll or by email)
+    - Zane Dax (interested in helping with social media, writing blog post)
+    - Joyce Robbins
+    - gwynn gebeyhu (interested in helping with EDIA at useR! 2025 and R Dev Days)
+    - Ella Kaye
+    - Heather Turner
+    - Emma Rand (Teaching online Package Development Workshop, Updating/extending R Package Development teaching materials)
+    - Kevin O'Brien (interested in helping with EDIA at useR! 2025, development of a corporate outreach team to build up sponsorship relations so that IDEA projects can be funded)
+    - Dillon Sparks (interested in helping with useR! 2025 survey)
+    - Maria Prokofieva
+    - Di Cook
+    - Jonathon Godfrey
+    - Pao Corrales
+  Plus the following that are active via association
+    - Mine Cetinkaya-Rundel - Active as part of useR! organizers
+    - Julie Josse - Active as part of R Foundation Conference Committee
+    - Michael Lawrence - Active as part of R Contribution Working Group
+    - Saranjeet Kaur Bhogal - Active as part of R Contribution Working Group
+    - Michael Chirico - Active as part of R Contribution Working Group
+- Suggestions for people we could invite:
+    - Imani Maliti (https://www.linkedin.com/in/imanimaliti/)
+
+
+## Meeting times
+
+- Joyce is teaching Mon-Thu morning and no one else from outside UK responded to the poll. Are there later times we could consider that might be better for US folk?
+
+    - Starting at 8pm UK time would be doable, Mon/Wed/Thus
+    - HT will follow up with gwynn, Joyce, Zane, Dillon to see if this or other alternatives from Jan poll will work
+
+
+## Ideas for 2025
+
+* Social media
+
+* R package workshop
+    * Combined R-Ladies Remote + rainbowR package development workshop
+
+        - Ella overloaded till mid-March, ideally wouldn't think about it till then. May make sense to think about June ish when running R package dev workshop at Warwick.
+        - Ella to ask rainbowR community if anyone interested in this.
+
+    * Latest version taught at Warwick (adapted/updated from the Forwards workshop): https://github.com/Warwick-Stats-Resources/r-packages-2024, https://warwick-stats-resources.github.io/r-packages-2024/ 
+
+    * In-person NYC event? Is R-Ladies NY active? Can offer Warwick materials as updated version of Forwards material in the meantime.
+      I'm thinking now that an online workshop would make more sense given the complex logistics required to hold an in person event. At the same time, I will continue to look for venues and connect with RLadies-NYC. (There are still active, though not as much as pre-pandemic.) What would be the next steps in organizing an online workshop? Can I just choose a date and share the info? 
+    
+* Forwards Blog posts
+    * One on converting your vignette from Sweave with texor. (Maybe HT to do test case!)
+    * R Journal alt text project and related resources
+    * Ideas?
+    
+* useR! 2025
+
+    * Kevin is helping with social media. Also interested in helping with useR! survey. HT to set up meeting with Kevin and Dillon to review (maybe share current survey/report in advance). Also looking into setting up some sort of virtual program. HT interested in this!
+    * Helping with EDIA
+    * useR! survey
+
+* Corporate Outreach
+
+* On-boarding
+    - Potential for people to help with webinars
